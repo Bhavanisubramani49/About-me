@@ -1,3 +1,8 @@
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://github.com/Bhavanisubramani49/Bhavanisubramani49/assets/your-image-id/banner.gif" alt="Banner Animation" width="100%"/>
+</p>
+
 # 👋 Hi, I'm Bhavani S
 
 🎓 3rd Year BE CSE (AI & ML) Student  
