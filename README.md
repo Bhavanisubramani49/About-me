@@ -50,6 +50,17 @@
   <!-- You can add more certification badges like this -->
 </p>
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/s-bhavani-5a2a26290/details/certifications/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Certified--MongoDB-green?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.mygreatlearning.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Great%20Learning-Certificate-blue?style=for-the-badge&logo=google-classroom&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 📊 GitHub Stats & Activity
