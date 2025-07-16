@@ -1,10 +1,3 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" alt="Woman working on computer" width="500"/>
-</p>
-
-<img src="https://avatars.githubusercontent.com/Bhavanisubramani49" width="150" height="150" style="border-radius:50%;" align="right"/>
-
 # 👋 Hi, I'm Bhavani S
 
 🎓 3rd Year BE CSE (AI & ML) Student  
