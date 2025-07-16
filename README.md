@@ -1,44 +1,33 @@
-# 💫 About Me:
-👋 Hi, I'm Bhavani Subramanian<br><br>
-🎓 BE CSE (AI & ML) | 3rd Year Student<br>
-💡 Passionate about Data Science, Machine Learning, and AI<br>
-💻 Exploring Full Stack Development and building real-world projects<br><br>
+<img src="https://avatars.githubusercontent.com/Bhavanisubramani49" width="150" height="150" style="border-radius: 50%;" align="right" />
 
-🔍 I'm always eager to learn new technologies and improve my skills.<br>
-📌 I enjoy solving problems using Python, C, Java, SQL, and more.<br>
-🌱 Currently working on: Python projects, ML models, and Data Visualization<br>
+# 👋 Hi there! I'm Bhavani S
 
----
-
-## 🌟 Skills:
-- 💻 Languages: Python, C, Java, SQL, HTML, CSS, JavaScript
-- 📊 Tools & Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
-- 🌐 Web Development: Basic frontend (HTML/CSS/JS), Learning backend
-- 🧠 AI & ML: Regression, Classification, Basic Algorithms
-- 🛠️ Tools: Git, GitHub, VS Code, Jupyter Notebook
+🎓 3rd Year BE CSE (AI & ML) Student  
+💡 Passionate about AI, ML, Python, and solving real-world problems  
+🌱 Currently learning: Data Science, Java, SQL, Python projects  
+📍 Based in Tamil Nadu, India
 
 ---
 
-## 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bhavanisubramani49&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavanisubramani49&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-bhavani-5a2a26290)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/bhavanisubraman3)
+[![VCET](https://img.shields.io/badge/VCET%20Profile-orange?style=for-the-badge)](https://vcet481.examly.io/profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bhavanisubramani49)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/BhavaniSubramanian26)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@bhavanisubramani49)
+[![Pinterest](https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/3L1bHMYYF)
+[![X](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/BhavaniS49)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Bhavani-Subramani-2006)
 
 ---
 
-## 🔗 Connect with Me:
-- 💼 LinkedIn: [linkedin.com/in/bhavanisubramanian](https://www.linkedin.com/in/bhavanisubramanian)
-- 📧 Email: bhavanisubramanian26@gmail.com
-- 🌐 Portfolio (Coming Soon)
+## 🧠 Skills & Tools
 
----
-
-## 📚 Ongoing Learning:
-- ✨ MongoDB Certifications
-- ✨ Data Science Projects
-- ✨ Mini Projects using Python
-- ✨ AI Chatbot and Smart Trolley Projects
-
----
-
+```text
+Languages:     Python, C, Java, SQL, HTML, CSS, JS
+Libraries:     NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
+Databases:     MySQL, SQLite
+Tools:         Git, GitHub, VS Code, Jupyter, Google Colab
+Certifications: MongoDB, Data Science Tools, AI Projects
