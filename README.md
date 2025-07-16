@@ -45,10 +45,6 @@
 
 ## 🏆 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Certified--MongoDB-green?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <!-- You can add more certification badges like this -->
-</p>
 
 
 <p align="center">
